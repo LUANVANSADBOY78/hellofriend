@@ -1,0 +1,1 @@
+Xin chào Node.js! Đây là file data.txt
